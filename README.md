@@ -35,11 +35,11 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Project Publications
 
-Karl, Jason W., and James E. Sprinkle. “Low-Cost Livestock Global Positioning System Collar from Commercial Off-the-Shelf Parts.” Rangeland Ecology & Management, 2019, p. S1550742419300582, doi:10.1016/j.rama.2019.08.003.
+Karl, Jason W., and James E. Sprinkle. “Low-Cost Livestock Global Positioning System Collar from Commercial Off-the-Shelf Parts.” Rangeland Ecology & Management, 2019. [doi:10.1016/j.rama.2019.08.003](https://dx.doi.org/10.1016/j.rama.2019.08.003).
 
-Jansen, Vincent, et al. “The Development of Near Real-Time Biomass and Cover Estimates for Adaptive Rangeland Management Using Landsat 7 and Landsat 8 Surface Reflectance Products.” Remote Sensing, vol. 10, no. 7, July 2018, p. 1057, doi:10.3390/rs10071057.
+Jansen, Vincent, et al. “The Development of Near Real-Time Biomass and Cover Estimates for Adaptive Rangeland Management Using Landsat 7 and Landsat 8 Surface Reflectance Products.” Remote Sensing, vol. 10, no. 7, July 2018, p. 1057, [doi:10.3390/rs10071057](https://dx.doi.org/10.3390/rs10071057).
 
-Jansen, Vincent S., et al. “Quantifying Livestock Effects on Bunchgrass Vegetation with Landsat ETM+ Data across a Single Growing Season.” International Journal of Remote Sensing, vol. 37, no. 1, Jan. 2016, pp. 150–75, doi:10.1080/01431161.2015.1117681.
+Jansen, Vincent S., et al. “Quantifying Livestock Effects on Bunchgrass Vegetation with Landsat ETM+ Data across a Single Growing Season.” International Journal of Remote Sensing, vol. 37, no. 1, Jan. 2016, pp. 150–75, [doi:10.1080/01431161.2015.1117681](https://dx.doi.org/10.1080/01431161.2015.1117681).
 
 ### Project Presentations
 
