@@ -48,4 +48,4 @@ Jansen, Vincent S., et al. “Quantifying Livestock Effects on Bunchgrass Vegeta
 
 ### Funding and Support
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This project is supported by funding from The Nature Conservancy and the USDA Natural Resources Conservation Service. Other project partners include the University of Idaho Rangeland Center, Idaho Department of Fish and Game, the Bureau of Land Management, and private ranchers in Idaho and Oregon. This project is supported by funding from a USDA Natural Resources Conservation Service Conservation Innovation grant under grant number NR193A750008G005. Any opinions, findings, conclusions, or recommendations expressed in this publication are those of the author(s) and do not necessarily reflect the views of the U.S. Department of Agriculture.
