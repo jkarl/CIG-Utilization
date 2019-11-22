@@ -33,10 +33,19 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Project Publications
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jkarl/CIG_Utilization/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Karl, Jason W., and James E. Sprinkle. “Low-Cost Livestock Global Positioning System Collar from Commercial Off-the-Shelf Parts.” Rangeland Ecology & Management, 2019, p. S1550742419300582, doi:10.1016/j.rama.2019.08.003.
 
-### Support or Contact
+Jansen, Vincent, et al. “The Development of Near Real-Time Biomass and Cover Estimates for Adaptive Rangeland Management Using Landsat 7 and Landsat 8 Surface Reflectance Products.” Remote Sensing, vol. 10, no. 7, July 2018, p. 1057, doi:10.3390/rs10071057.
+
+Jansen, Vincent S., et al. “Quantifying Livestock Effects on Bunchgrass Vegetation with Landsat ETM+ Data across a Single Growing Season.” International Journal of Remote Sensing, vol. 37, no. 1, Jan. 2016, pp. 150–75, doi:10.1080/01431161.2015.1117681.
+
+### Project Presentations
+
+
+
+
+### Funding and Support
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
