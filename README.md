@@ -30,8 +30,10 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+### Project Technical Documentation
+ - [Open-source GPS Collars for Livestock Tracking - GitHub Repository](https://github.com/jkarl/COTS_GPS_Collars)
+ - [RangeSAT Biomass Modeling - GitHub Repository]() 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Project Publications
 
